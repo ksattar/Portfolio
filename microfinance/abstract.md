@@ -3,7 +3,7 @@ I spent 4 months conducting household surveys in India and Bangladesh to underst
 the poor save and borrow money without access to banks. I used this data to numerically
 test a game-theoretic model of informal lending.*
 
-#ABSTRACT
+ABSTRACT
 
 In developing countries, the poor often lack access to commercial banking services. They
 borrow money from moneylenders and microfinance institutions. These transactions are marked
