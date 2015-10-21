@@ -1,5 +1,5 @@
 *I am interested to predict the probability of drought in certain regions of Uganda.
-Using geocoded data on rainfall and temperature, I will build a spatial forecasting model.*
+Using geocoded weather data, I will build a spatial forecasting model.*
 
 *This is part of my volunteer work for Columbia University's Engineers Without Borders
 program, through which I've had the opportunity to do data analytics and field research
